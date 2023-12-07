@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    /* align-items:  center; */
+    justify-content: center;
+    /* flex-direction: column; */
+
+}
+
+input{
+    height: 22px;
+    width: 200px;
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+p{
+    margin: 10px 70px;
+}
